@@ -17,8 +17,8 @@ or
 >bettercap --kill -G gateway -T targets -X
 
 #### Useful links
-[concept](http://superuser.com/questions/435356/a-pc-application-similar-to-wifikill-in-android)
+[**concept**](http://superuser.com/questions/435356/a-pc-application-similar-to-wifikill-in-android)
 
-[hiding your real mac and ip](https://habrahabr.ru/post/226679/)
+[**hiding your real mac and ip**](https://habrahabr.ru/post/226679/)
 
 
