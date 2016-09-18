@@ -7,7 +7,7 @@ use for your own responsibility
 - [x] genip.py
 - [x] masktransform.py
 - [x] restore-existing-net-config.sh
-- [-] better-wifikill.sh
+- [ ] better-wifikill.sh
 
 core feature does not work, you may try:
 >#bettercap --kill -G gateway -T targets --random-mac -X
