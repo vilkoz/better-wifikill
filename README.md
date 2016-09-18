@@ -1,7 +1,7 @@
 # better-wifikill
 use for your own responsibility 
 
-# this project is not redy
+# this project is not ready
 
 ### Status
 - [x] genip.py
