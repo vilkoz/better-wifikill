@@ -10,11 +10,15 @@ use for your own responsibility
 - [ ] better-wifikill.sh
 
 core feature does not work, you may try:
->bettercap --kill -G gateway -T targets --random-mac -X
+```bash
+bettercap --kill -G gateway -T targets --random-mac -X
+```
 
 or
 
->bettercap --kill -G gateway -T targets -X
+```bash
+bettercap --kill -G gateway -T targets -X
+```
 
 #### Useful links
 [**concept**](http://superuser.com/questions/435356/a-pc-application-similar-to-wifikill-in-android)
